@@ -15,3 +15,6 @@ Next I created a folder where I was going to keep my python script
 Next I created a .py file in VSCODE inside my folder I created in the step above
 Next I installed selenium using terminal in VSCODE
 Finally, I would make adjustments to the code as needed and run the program form VSCODE
+
+
+Currently as is the jobapply.py file will go through 1 easy apply job application and thats it. I will imporve it more in the future.
