@@ -39,7 +39,4 @@ for listing in all_listings:
         button.click()
         time.sleep(2)
     
-    close_button = driver.find_element_by_css_selector(".artdeco-button--circle")
-    if close_button:
-        close_button = driver.find_element_by_css_selector(".artdeco-button--circle")
-        close_button.click()
+  
